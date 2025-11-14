@@ -67,17 +67,7 @@ Phishing detection result
 
 ⚠️ If the link is flagged → A sound alert will play.
 
-
-
-🛡️ Legal Notice
-
-This tool is intended only for:
-
-Educational cybersecurity
-
-Awareness against phishing and social engineering
-
-Self-protection and OSINT in legal boundaries
+---
 
 It must NOT be used for:
 🔻 Hacking
@@ -87,16 +77,16 @@ It must NOT be used for:
 
 🔻 You are responsible for your own usage 🔻
 
-
+---
 
 🧑‍💻 Developer:
 ```
 
 |     Field   |       Info        |
 | ----------- |     ----------    |
-| Developer   | **ViRuS-HaCkEr**  |
-| Snapchat    |    **ml-ftt**     |
-| Twitter / X |    **h3fq1**      |
+| Developer   |   ViRuS-HaCkEr    |
+| Snapchat    |      ml-ftt       |
+| Twitter / X |       h3fq1       |
 ```
 
 ⭐ Support
