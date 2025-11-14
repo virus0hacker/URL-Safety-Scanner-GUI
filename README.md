@@ -70,9 +70,13 @@ Phishing detection result
 ---
 
 It must NOT be used for:
+
 🔻 Hacking
+
 🔻 Doxxing
+
 🔻 Privacy violations
+
 🔻 Any illegal activity
 
 🔻 You are responsible for your own usage 🔻
