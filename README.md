@@ -31,7 +31,6 @@ The program scans any link and reveals:
 | Risk classification system | ✔️ |
 | Sound alert on High Risk | ✔️ |
 | Paste button (Clipboard → URL field) | ✔️ |
-| Premium “Credits” window with logo + signature | ✔️ |
 
 ---
 
