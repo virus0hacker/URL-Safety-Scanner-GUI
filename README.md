@@ -1,0 +1,1 @@
+# URL-Safety-Scanner-GUI
