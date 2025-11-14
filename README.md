@@ -44,11 +44,11 @@ The program scans any link and reveals:
 ```bash
 pip install requests pillow colorama
 
-
+```
 Run the tool:
-
+```
 python url_safety_scanner_gui.py
-
+```
 
 📌 Usage
 
@@ -86,35 +86,29 @@ It must NOT be used for:
 🔻 Privacy violations
 🔻 Any illegal activity
 
-You are responsible for your own usage.
+🔻 You are responsible for your own usage 🔻
 
 
 
 🧑‍💻 Developer:
+```
 
 |     Field   |       Info        |
 | ----------- |     ----------    |
 | Developer   | **ViRuS-HaCkEr**  |
 | Snapchat    |    **ml-ftt**     |
 | Twitter / X |    **h3fq1**      |
-
+```
 
 ⭐ Support
 
 If you like the project:
 
-Leave a Star ⭐ in GitHub
+Leave a Star ⭐
+---
 
 Share the repository to support the community ⚡
 
 🚀 Future plans (optional roadmap)
 
 Export reports as PDF / JSON / CSV
-
-Link scanning history
-
-Auto-scan shortcut (Paste → Scan)
-
-Portable .EXE release for Windows
-
-Android version
